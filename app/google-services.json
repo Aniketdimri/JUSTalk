@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093610850297",
+    "project_id": "kotlinmessenger-3a3a0",
+    "storage_bucket": "kotlinmessenger-3a3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093610850297:android:811d6667613008ddcd5f28",
+        "android_client_info": {
+          "package_name": "com.aniketdimri.securechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093610850297-9246svc02kl8kcv53tcksso63d9aedo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MGgeUPlNZe2LwYz57mgMfEI_ngXQZTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093610850297-9246svc02kl8kcv53tcksso63d9aedo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
